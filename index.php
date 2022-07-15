@@ -9,6 +9,7 @@ var_dump($test_3);
 
 echo "これはbranch_testでコミットする内容";
 echo "test";
+echo "test";
 
 // phpinfo();
 
