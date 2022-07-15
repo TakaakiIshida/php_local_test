@@ -9,4 +9,4 @@ var_dump($test_3);
 
 // phpinfo();
 
-echo("これはbranch_testでコミットする内容")
+echo("これはbranch_testでコミットする内容②")
