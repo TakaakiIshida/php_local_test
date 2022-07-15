@@ -13,5 +13,4 @@ echo "test";
 
 // phpinfo();
 
-?>
-
+echo("これはbranch_testでコミットする内容③")
