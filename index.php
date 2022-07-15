@@ -7,5 +7,10 @@ $test_3 = $test_1 . $test_2;
 
 var_dump($test_3);
 
+echo "これはbranch_testでコミットする内容";
+echo "test";
+
 // phpinfo();
+
+?>
 
