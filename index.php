@@ -29,3 +29,5 @@ echo "\n";
 
 $randomString = $generator->generateString(32, 'abcdef');
 echo $randomString;
+
+echo "test";
