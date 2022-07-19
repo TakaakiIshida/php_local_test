@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'a28b9c262777151cae19b567db8fa577ee8278f1',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'a28b9c262777151cae19b567db8fa577ee8278f1',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'ircmaxell/random-lib' => array(
+            'pretty_version' => 'v1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => '0eaad991c1756842f26dfbcbc6effcabb5003d0a',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../ircmaxell/random-lib',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'ircmaxell/security-lib' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => '80934de3c482dcafb46b5756e59ebece082b6dc7',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../ircmaxell/security-lib',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
